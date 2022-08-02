@@ -3,5 +3,10 @@ subiendo la escalera
 araña arañita 
 bajando la escalera
 y pum se cayo
+<<<<<<< HEAD
 y pum se mato
 y un sapo se la comio
+=======
+y un sapo se la comio
+croack croack
+>>>>>>> cabecera
